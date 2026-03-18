@@ -29,7 +29,7 @@
 |`continent_code`|大洲编码|
 
 
-|                       标准版最新数据下载地址                        |https://cdn.jsdmirror.com/gh/nmgliangwei/qqwry.ipdb@main/qqwry.ipdb|
+|                       标准版最新数据下载地址                        |https://cdn.bili33.top/gh/nmgliangwei/qqwry.ipdb@main/qqwry.ipdb|
 |:----------------------------------------------------:|---|
 
 上面为国内加速链接，即下即用，每次更新会覆盖之前的内容，如果想要某个时间段的历史数据可在 [` Release ` ](https://github.com/nmgliangwei/qqwry.ipdb/releases) 里进行查看。
@@ -47,7 +47,7 @@
 |`owner_domain`|拥有者域名，空|
 |`isp_domain`|运营商名称，空|
 
-|                          原版下载地址                          | https://cdn.jsdmirror.com/gh/nmgliangwei/qqwry.ipdb@main/qqwry-raw.ipdb |
+|                          原版下载地址                          | https://cdn.bili33.top/gh/nmgliangwei/qqwry.ipdb@main/qqwry-raw.ipdb |
 |:--------------------------------------------------------:|------------------------------------------------------------------------|
 
 上面为国内加速链接，即下即用，每次更新会覆盖之前的内容，如果想要某个时间段的历史数据可在 [` Release ` ](https://github.com/nmgliangwei/qqwry.ipdb/releases) 里进行查看。
