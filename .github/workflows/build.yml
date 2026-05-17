@@ -56,9 +56,9 @@ jobs:
 
            | Name               | Value                      |
            | :----------------: | :------------------------: |
-           | Stand File Download: | https://cdn.bili33.top/gh/nmgliangwei/qqwry.ipdb@main/qqwry.ipdb |
+           | Stand File Download: | https://cdn.1008.site/gh/nmgliangwei/qqwry.ipdb@main/qqwry.ipdb |
            | Stand File sha256: | qqwry.ipdb: ${{ env.STAND_FILE_HASH }} |
-           | Raw File Download: | https://cdn.bili33.top/gh/nmgliangwei/qqwry.ipdb@main/qqwry-raw.ipdb            |
+           | Raw File Download: | https://cdn.1008.site/gh/nmgliangwei/qqwry.ipdb@main/qqwry-raw.ipdb            |
            | Raw File sha256: | qqwry-raw.ipdb: ${{ env.RAW_FILE_HASH }} |
            <p align="right"><code>Version: ${{ env.dat_date }} </code></p>
       - name: Calculate repository hash value
